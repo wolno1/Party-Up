@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "148373817652",
+    "project_id": "party-up-51a36",
+    "storage_bucket": "party-up-51a36.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148373817652:android:775246d638b20a2dd57d61",
+        "android_client_info": {
+          "package_name": "com.example.partyup"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACBs0ZHp2S8c54b-I4tH7EzarQJ_gn9hg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
