@@ -4,6 +4,15 @@
     android:layout_height="match_parent"
     android:padding="16dp">
 
+    <Button
+        android:id="@+id/btnListaInvitado"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="ListaInvitado"
+        android:layout_marginTop="50dp"
+        android:layout_centerHorizontal="true"
+        android:onClick="goToListaInvitado" />
+
     <TextView
         android:id="@+id/textHelloInvitado"
         android:layout_width="wrap_content"

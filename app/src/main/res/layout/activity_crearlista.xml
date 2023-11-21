@@ -4,12 +4,20 @@
     android:layout_height="match_parent"
     android:padding="16dp">
 
-
-    <TextView
-        android:id="@+id/textHelloCalendario"
+    <Button
+        android:id="@+id/btnListaHost"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello Calendario!"
+        android:text="ListaHost"
+        android:layout_marginTop="50dp"
+        android:layout_centerHorizontal="true"
+        android:onClick="goToListaHost" />
+
+    <TextView
+        android:id="@+id/textHelloCrearlista"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hello Crear Lista!"
         android:textSize="24sp"
         android:layout_centerInParent="true" />
 </RelativeLayout>

@@ -4,6 +4,16 @@
     android:layout_height="match_parent"
     android:padding="16dp">
 
+
+    <Button
+        android:id="@+id/btnCrearLista"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="CrearLista"
+        android:layout_marginTop="50dp"
+        android:layout_centerHorizontal="true"
+        android:onClick="goToCrearLista" />
+
     <TextView
         android:id="@+id/textHelloHost"
         android:layout_width="wrap_content"

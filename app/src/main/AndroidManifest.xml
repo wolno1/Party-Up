@@ -27,6 +27,9 @@
         <activity android:name=".Host" />
         <activity android:name=".Invitado" />
         <activity android:name=".Calendario" />
+        <activity android:name=".CrearLista" />
+        <activity android:name=".ListaHost" />
+        <activity android:name=".ListaInvitado" />
 
 
     </application>
